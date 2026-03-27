@@ -193,8 +193,7 @@ The **online channel** lags behind physical stores across most regions — fewer
 📦 POWER BI PROJECT
  ┣ 📊 POWER BI PROJECT.pbix         # Full interactive Power BI dashboard
  ┣ 📄 POWER BI PROJECT.pdf          # Dashboard screenshots (all pages)
- ┣ 📄 Key Findings.pdf              # Detailed task-by-task findings & DAX formulas
- ┗ 🔗 VIDEO LINK.pdf                # Video walkthrough link
+ ┗ 📄 Key Findings.pdf              # Detailed task-by-task findings & DAX formulas
 ```
 
 ---
@@ -208,12 +207,6 @@ The **online channel** lags behind physical stores across most regions — fewer
 
 ---
 
-## 🎥 Project Walkthrough
-
-A full video walkthrough is available here:
-🔗 [Watch on Loom](https://www.loom.com/share/6993b7de980b4169b5463b9a6afb630d?sid=546d1284-d2d3-4936-85ef-7b19ed40fc31)
-
----
 
 ## 👤 Author
 
